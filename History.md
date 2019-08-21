@@ -1,4 +1,8 @@
 
+0.3.3 - August 21, 2019
+---------------------
+* fix installing `substitute` dependency
+
 0.3.2 - June 11, 2014
 ---------------------
 * fix installing `substitute` dependency
